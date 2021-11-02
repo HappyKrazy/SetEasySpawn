@@ -1,0 +1,18 @@
+Config:
+#  -------------------------------------------------------------------------  #
+#  This plugin is a beta version.                                             #         
+#                                                                             #
+#                                                                             #
+#  IMPORTANT !! IMPORTANT !! IMPORTANT !! IMPORTANT !! IMPORTANT !!IMPORTANT  #
+#                                                                             #
+#  Thx for using my plugin                                                    #
+#                                                                             #
+#  IMPORTANT !! IMPORTANT !! IMPORTANT !! IMPORTANT !! IMPORTANT !!IMPORTANT  #
+#  -------------------------------------------------------------------------  #
+    preffix: "&a[EasySetSpawn]"
+    spawn: "&aHas been teleported to the spawn."
+    define_spawn: "&aSpawn correctly defined."
+    reload: "&aReloaded."
+    no_spawn: "&cPlease define a spawn, use /spawn setspawn."
+
+  

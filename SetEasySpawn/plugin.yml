@@ -1,0 +1,9 @@
+main: happy.spawn.Main
+version: 1.0
+name: SetEasySpawn
+author: HappyKrazy
+description: Plugin of spawn.
+commands:
+ spawn:
+  aliases: [spawn]
+  description: All commands of spawn.
